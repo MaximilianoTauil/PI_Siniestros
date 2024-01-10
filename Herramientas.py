@@ -20,24 +20,14 @@ def analizar_datos(df):
         
     return resumen_dataframe
 
-
-def extraccion_anio(col):
-
-    match = re.search(r'\b\d{4}\b', col)
-    if match:
-        return match.group(0)
-    else:
-        return None
-
-
 def cantidad_porcentaje(dataframe, columna):
     
     cantidad = dataframe.shape[0]
     cantidad_columna = dataframe[columna].value_counts()
     porcentaje_columna = round((cantidad_columna / cantidad) * 100, 2)
     
-    print(f'Los valores de {columna}\n{cantidad_columna.to_string(header=False)}')
-    print(f'El porcentaje de cada valor\n{porcentaje_columna.to_string(header=False)}')
+    print(f'Los valores de {columna}:\n{cantidad_columna.to_string(header=False)}')
+    print(f'\nEl porcentaje que representa cada valor:\n{porcentaje_columna.to_string(header=False)}')
 
 
 def export_data_csv(ruta_nueva,dataframe):
