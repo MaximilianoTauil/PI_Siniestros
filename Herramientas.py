@@ -23,7 +23,7 @@ def analizar_datos(df):
 def cantidad_porcentaje(dataframe, columna):
     
     cantidad = dataframe.shape[0]
-    cantidad_columna = dataframe[columna].value_counts()
+    cantidad_columna = dataframe[columna].value_counts(dropna=False)
     porcentaje_columna = round((cantidad_columna / cantidad) * 100, 2)
     
     print(f'Los valores de {columna}:\n{cantidad_columna.to_string(header=False)}')
