@@ -1,5 +1,4 @@
 import pandas as pd
-import re
 
 
 def analizar_datos(df):
