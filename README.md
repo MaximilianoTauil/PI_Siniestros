@@ -12,7 +12,7 @@ La preocupación por siniestros viales en Argentina destaca desafíos en la infr
 
 En comparación con otros países del mundo, Argentina no ha mostrado avances significativos en cuanto a la reducción de siniestros viales, ya que su tasa de mejora en la disminución de fallecimientos se mantiene en un 0%.
 
-![Imagen2](/PI_Siniestros/Imagenes/tabla.jpg)
+![Imagen2](Imagenes/tabla.jpg)
 
 Fuente: https://www.luchemos.org.ar/es/estadisticas/internacionales/comparacion-de-argentina-con-otros-paises
 
@@ -29,7 +29,7 @@ El objetivo de este proyecto sobre siniestros viales en Argentina, CABA, es llev
 
 ## Estructura del repositorio
 
-* **Datasets**: Contiene la información con los archivos entregados para el proyecto, algunos en formato CSV y otros en XLSX. Para visualizarlo, haga clic [aquí](./PI_Siniestros/Datasets/)
+* **Datasets**: Contiene la información con los archivos entregados para el proyecto, algunos en formato CSV y otros en XLSX. Para visualizarlo, haga clic [aquí](Datasets)
 
 * **Imágenes**: Contiene las imágenes que se utilizarán en el README. Para visualizarlo, haga clic aquí.
 
