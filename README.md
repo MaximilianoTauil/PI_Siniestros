@@ -4,7 +4,7 @@
 
 Los incidentes viales, que se producen en las vías de manera repentina e inesperada, son resultado de condiciones y comportamientos irresponsables potencialmente prevenibles. Estos eventos están vinculados a factores humanos, predominantemente vehículos automotores, condiciones climáticas, señalización y características de las vías, y conllevan la pérdida prematura de vidas humanas, lesiones, así como secuelas físicas o psicológicas, daños materiales y perjuicios a terceros.
 
-![imagen](/PI_Siniestros/Imagenes/MapaMuertos2022web%20Copy.jpg)
+![imagen](PI_Siniestros/Imagenes/MapaMuertos2022web%20Copy.jpg)
 
 Fuente: https://www.luchemos.org.ar/es/estadisticas/muertosanuales/muertos-en-argentina-durante-2022
 
