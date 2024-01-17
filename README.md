@@ -34,6 +34,8 @@ El objetivo de este proyecto sobre siniestros viales en Argentina, CABA, es llev
 
 * **Imágenes**: Contiene las imágenes que se utilizarán en el README. Para visualizarlo, haga clic [aquí](Imagenes)
 
+* **Diccionarios**: Contiene los diccionarios del dataset utilizado. Para visualizarlo, haga clic [aquí](Diccionarios.ipynb)
+
 * **ETL**: Incluye las cargas de los datasets y las transformaciones pertinentes de los datos. Para visualizarlo, haga clic [aquí](ETL.ipynb)
 
 * **EDA**: Contiene el Análisis Exploratorio de Datos y las transformaciones necesarias para consumirlas desde el dashboard. Para visualizarlo, haga clic [aquí](EDA.ipynb)
